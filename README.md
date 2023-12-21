@@ -1,4 +1,6 @@
-Open CodeEncrypt v6.1.1.exe to start app.
+Click the release (to the right) and then click CodeEncrypt.v6.1.1.Package.zip to download
+
+After extracting, open CodeEncrypt v6.1.1.exe to start app.
 
 Please visit my website, codeencrypt.000webhostapp.com, for info.
 
