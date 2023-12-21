@@ -1,3 +1,5 @@
+Open CodeEncrypt v6.1.1.exe to start app.
+
 Please visit my website, codeencrypt.000webhostapp.com, for info.
 
 My contacts:
